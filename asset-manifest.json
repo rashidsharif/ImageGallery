@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rashidsharif.github.io/ImageGallery/static/css/main.6b475d78.css",
+    "main.js": "/rashidsharif.github.io/ImageGallery/static/js/main.3a80d4c4.js",
+    "index.html": "/rashidsharif.github.io/ImageGallery/index.html",
+    "main.6b475d78.css.map": "/rashidsharif.github.io/ImageGallery/static/css/main.6b475d78.css.map",
+    "main.3a80d4c4.js.map": "/rashidsharif.github.io/ImageGallery/static/js/main.3a80d4c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b475d78.css",
+    "static/js/main.3a80d4c4.js"
+  ]
+}
